@@ -1,4 +1,4 @@
-<template>Lokesh</template><script setup>
+<script setup>
 import router from '@/router';
 import { reactive, onMounted } from 'vue';
 import { useRoute } from 'vue-router';
